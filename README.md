@@ -524,10 +524,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Stream-Syntra** - Demonstrating Modern Data Engineering Excellence
 
-🌐 **Portfolio**: [Your Portfolio Website]  
-💼 **LinkedIn**: [Your LinkedIn Profile]  
-📧 **Email**: your.email@example.com  
-🐱 **GitHub**: [Your GitHub Profile]
+💼 **LinkedIn**: https://www.linkedin.com/in/michael-eniolade/
+📧 **Email**: michaeleniolade@gmail.com  
 
 ---
 
