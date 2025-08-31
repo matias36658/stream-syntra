@@ -1,0 +1,6 @@
+PyGithub
+kafka-python
+confluent-kafka[avro]
+confluent-kafka
+fastavro
+requests
